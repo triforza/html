@@ -1,6 +1,6 @@
 <?php 
-/*$password = "cv";
-$nonsense = "PalabraDePasoEncriptado";
+/*$password = "";
+$nonsense = "";
 
 setcookie('MiCookieJuanLuisAcebal', md5($password.$nonsense));
 
